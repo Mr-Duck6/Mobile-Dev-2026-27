@@ -1,4 +1,4 @@
-# practice1_devcard
+# practice2_devcard
 
 ## Опис проєкту
 
